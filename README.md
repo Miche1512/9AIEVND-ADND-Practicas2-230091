@@ -1,6 +1,6 @@
 # 9AIEVND_ADND_Practicas_230091
 
-![Logo_TI](Images/Logo_TI.jpeg) 
+![Logo_TI](images/Logo_TI.jpeg) 
 
 # Repositorio de Practicas para la asignatura de Datos para Negoios Digitales
 
